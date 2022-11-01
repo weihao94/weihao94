@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Wei Hao, a Data Scientist and an active Kaggler! 
+
+<a href="https://www.linkedin.com/in/wei-hao-khoong-6b94b1101/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wei-hao-khoong-6b94b1101/" alt="wei-hao-khoong-6b94b1101"/></a>
+<a href="https://medium.com/@khoongweihao" target="blank"><img align="center" src="https://img.shields.io/badge/-medium-7CB342?style=for-the-badge&labelColor=7CB342&logo=Medium&link=https://medium.com/@smota" alt="smota"/></a>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khoongweihao/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khoongweihao/dataset)
