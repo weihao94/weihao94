@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khoongweihao/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khoongweihao/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khoongweihao/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khoongweihao/discussion)
+
 <!--
 **weihao94/weihao94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
